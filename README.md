@@ -1,2 +1,3 @@
-😈 | I'm Raizer, trying to improve my basics in programming, wish me luck!
+🦅 | I'm Raizer, currently working on my programming skills.
 📖 | Always happy to learn new stuff.
+🤠 | Still working on Java python. LUA will be my new challenge.
